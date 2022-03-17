@@ -22,6 +22,8 @@ Here, you will use a Long Short Term Memory Network (LSTM) for building your mod
 
 LTSMs are a type of Recurrent Neural Network for learning long-term dependencies. It is commonly used for processing and predicting time-series data. 
 ![image](https://user-images.githubusercontent.com/83390750/158806811-2ff6c864-cffc-4135-a9b9-e9ac20a7aafc.png)
+
+
 From the image on the top, you can see LSTMs have a chain-like structure. General RNNs have a single neural network layer. LSTMs, on the other hand, have four interacting layers communicating extraordinarily.
 
 LSTMs work in a three-step process.
